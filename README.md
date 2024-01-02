@@ -1,7 +1,6 @@
-# Exp-03-Implementation-of-Half-Adder-and-Full-Adder-circuit
-# BY: GNANENDRAN N
-# REGISTER NUMBER : 23006661
-# Implementation-of-Half-Adder-and-Full-Adder-circuit
+# Exp 03 Implementation of Half Adder and Full Adder circuit
+## Name: GNANENDRAN N
+## REGISTER NUMBER : 23006661
 ### AIM:
 To design a half adder and full adder circuit and verify its truth table in Quartus using Verilog programming.
 
